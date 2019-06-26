@@ -1,0 +1,22 @@
+{
+  "name": "sos_ambulancia-api",
+  "version": "1.0.0",
+  "description": "SOS_Ambulancia-API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Caroline Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "jwt-simple": "^0.5.6",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7"
+  }
+}

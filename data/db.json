@@ -1,0 +1,191 @@
+{
+  "emergency_call": {
+    "id": "EM1890",
+    "geo_from": {
+      "lat": "40.663681",
+      "lng": "-73.968269"
+    },
+    "geo_to": {
+      "lat": "40.669247",
+      "lng": "-74.014999"
+    },
+    "patient": {
+      "id": "P01234",
+      "name": "Leanne Graham",
+      "phone": "718-285-7575",
+      "email": "leanne@gmail.com",
+      "address": {
+        "street": "Alfred Drive",
+        "suite": "3027",
+        "city": "New York",
+        "zipcode": "10005",
+        "geo": {
+          "lat": "40.669247",
+          "lng": "-74.014999"
+        }
+      }
+    }
+  },
+  "emergencies": [
+    {
+      "id": "URG1891",
+      "geo_from": {
+        "lat": "40.691448",
+        "lng": "-73.952065"
+      },
+      "geo_to": {
+        "lat": "40.787354",
+        "lng": "-74.104713"
+      },
+      "started_at": "2018-04-21T12:34:00.000Z",
+      "finished_at": "2018-04-21T12:56:00.000Z",
+      "patient": {
+        "id": "P01235",
+        "name": "Ervin Howell",
+        "phone": "914-622-8964",
+        "email": "ervin@gmail.com",
+        "address": {
+          "street": "Taylor Street",
+          "suite": "1873",
+          "city": "New York",
+          "zipcode": "10005",
+          "geo": {
+            "lat": "40.787354",
+            "lng": "-74.104713"
+          }
+        }
+      },
+      "ambulance": {
+        "id": "AMB09"
+      }
+    },
+    {
+      "id": "URG1892",
+      "geo_from": {
+        "lat": "40.642586",
+        "lng": "-73.965836"
+      },
+      "geo_to": {
+        "lat": "40.653763",
+        "lng": "-73.941963"
+      },
+      "started_at": "2018/04/21 8:23",
+      "finished_at": "2018/04/21 8:55",
+      "patient": {
+        "id": "P01236",
+        "name": "Clementine Bauch",
+        "phone": "212-657-1761",
+        "email": "clementine@gmail.com",
+        "address": {
+          "street": "Oakwood Avenue",
+          "suite": "1971",
+          "city": "New York",
+          "zipcode": "10004",
+          "geo": {
+            "lat": "40.653763",
+            "lng": "-73.941963"
+          }
+        }
+      },
+      "ambulance": {
+        "id": "AMB09"
+      }
+    },
+    {
+      "id": "URG1792",
+      "geo_from": {
+        "lat": "40.707760",
+        "lng": "-73.911644"
+      },
+      "geo_to": {
+        "lat": "40.7389139",
+        "lng": "-74.0453766"
+      },
+      "started_at": "2018-04-21T09:09:00.000Z",
+      "finished_at": "2018-04-21T09:37:00.000Z",
+      "patient": {
+        "id": "P01240",
+        "name": "Kurtis Weissnat",
+        "phone": "347-333-1077",
+        "email": "kurtis@gmail.com",
+        "address": {
+          "street": "My Drive",
+          "suite": "2087",
+          "city": "New York",
+          "zipcode": "10001",
+          "geo": {
+            "lat": "40.707760",
+            "lng": "-73.911644"
+          }
+        }
+      },
+      "ambulance": {
+        "id": "AMB06"
+      }
+    },
+    {
+      "id": "URG1798",
+      "geo_from": {
+        "lat": "40.772202",
+        "lng": "-73.919121"
+      },
+      "geo_to": {
+        "lat": "40.707760",
+        "lng": "-73.911644"
+      },
+      "started_at": "2018-04-21T07:38:00.000Z",
+      "finished_at": "2018-04-21T08:04:00.000Z",
+      "patient": {
+        "id": "P01240",
+        "name": "Kurtis Weissnat",
+        "phone": "347-333-1077",
+        "email": "kurtis@gmail.com",
+        "address": {
+          "street": "My Drive",
+          "suite": "2087",
+          "city": "New York",
+          "zipcode": "10001",
+          "geo": {
+            "lat": "40.707760",
+            "lng": "-73.911644"
+          }
+        }
+      },
+      "ambulance": {
+        "id": "AMB06"
+      }
+    },
+    {
+      "id": "URG05678",
+      "geo_from": {
+        "lat": "40.728989",
+        "lng": "-74.028984"
+      },
+      "geo_to": {
+        "lat": "40.761871",
+        "lng": "-73.992355"
+      },
+      "started_at": "2018-04-21T06:37:00.000Z",
+      "finished_at": "2018-04-21T07:01:00.000Z",
+      "patient": {
+        "id": "P01251",
+        "name": "Glenna Reichert",
+        "phone": "917-799-0979",
+        "email": "glenna@gmail.com",
+        "address": {
+          "street": "Settlers Lane",
+          "suite": "1927",
+          "city": "New York",
+          "zipcode": "10016",
+          "geo": {
+            "lat": "40.761871",
+            "lng": "-73.992355"
+          }
+        }
+      },
+      "ambulance": {
+        "id": "AMB06"
+      }
+    }
+  ]
+}

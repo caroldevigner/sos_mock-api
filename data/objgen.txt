@@ -1,0 +1,148 @@
+emergency_call
+  id s = EM1890
+  geo_from
+    lat s = 40.663681
+    lng s = -73.968269
+  geo_to
+    lat s = 40.669247
+    lng s = -74.014999
+  patient
+    id s = P01234
+    name s = Leanne Graham
+    phone s = 718-285-7575
+    email s = leanne@gmail.com
+    address
+      street s = Alfred Drive
+      suite s = 3027
+      city s = New York
+      zipcode s = 10005
+      geo
+        lat s = 40.669247
+        lng s = -74.014999
+
+emergencies[0]
+  id s = URG1891
+  geo_from
+    lat s = 40.691448
+    lng s = -73.952065
+  geo_to
+    lat s = 40.787354 
+    lng s = -74.104713 
+  started_at d = 2018/04/21 9:34
+  finished_at d = 2018/04/21 9:56
+  patient
+    id s = P01235
+    name s = Ervin Howell
+    phone s = 914-622-8964
+    email s = ervin@gmail.com
+    address
+      street s = Taylor Street
+      suite s = 1873
+      city s = New York
+      zipcode s = 10005
+      geo
+        lat s = 40.787354
+        lng s = -74.104713
+  ambulance
+    id s = AMB09
+emergencies[1]
+  id s = URG1892
+  geo_from
+    lat s = 40.642586
+    lng s = -73.965836
+  geo_to
+    lat s = 40.653763 
+    lng s = -73.941963 
+  started_at s = 2018/04/21 8:23
+  finished_at s = 2018/04/21 8:55
+  patient
+    id s = P01236
+    name s = Clementine Bauch
+    phone s = 212-657-1761
+    email s = clementine@gmail.com
+    address
+      street s = Oakwood Avenue
+      suite s = 1971
+      city s = New York
+      zipcode s = 10004
+      geo
+        lat s = 40.653763
+        lng s = -73.941963
+  ambulance
+    id s = AMB09
+emergencies[2]
+  id s = URG1792
+  geo_from
+    lat s = 40.707760
+    lng s = -73.911644
+  geo_to
+    lat s = 40.7389139
+    lng s = -74.0453766
+  started_at d = 2018/04/21 6:09
+  finished_at d = 2018/04/21 6:37
+  patient
+    id s = P01240
+    name s = Kurtis Weissnat
+    phone s = 347-333-1077
+    email s = kurtis@gmail.com
+    address
+      street s = My Drive
+      suite s = 2087
+      city s = New York
+      zipcode s = 10001
+      geo
+        lat s = 40.707760
+        lng s = -73.911644
+  ambulance
+    id s = AMB06
+emergencies[3]
+  id s = URG1798
+  geo_from
+    lat s = 40.772202
+    lng s = -73.919121
+  geo_to
+    lat s = 40.707760
+    lng s = -73.911644
+  started_at d = 2018/04/21 4:38
+  finished_at d = 2018/04/21 5:04
+  patient
+    id s = P01240
+    name s = Kurtis Weissnat
+    phone s = 347-333-1077
+    email s = kurtis@gmail.com
+    address
+      street s = My Drive
+      suite s = 2087
+      city s = New York
+      zipcode s = 10001
+      geo
+        lat s = 40.707760
+        lng s = -73.911644
+  ambulance
+    id s = AMB06
+emergencies[4]
+  id s = URG05678
+  geo_from
+    lat s = 40.728989
+    lng s = -74.028984
+  geo_to
+    lat s = 40.761871
+    lng s = -73.992355
+  started_at d = 2018/04/21 3:37
+  finished_at d = 2018/04/21 4:01
+  patient
+    id s = P01251
+    name s = Glenna Reichert
+    phone s = 917-799-0979
+    email s = glenna@gmail.com
+    address
+      street s = Settlers Lane
+      suite s = 1927
+      city s = New York
+      zipcode s = 10016
+      geo
+        lat s = 40.761871
+        lng s = -73.992355
+  ambulance
+    id s = AMB06
+    
